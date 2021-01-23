@@ -1,5 +1,0 @@
-includeFile("tangible/tcg/series6/painting_nightsister.lua")
-includeFile("tangible/tcg/series6/painting_winged_quenker.lua")
-includeFile("tangible/tcg/series6/painting_travel_ad_coruscant.lua")
-includeFile("tangible/tcg/series6/painting_spined_rancor.lua")
-includeFile("tangible/tcg/series6/painting_travel_ad_ord_mantell.lua")

@@ -1,3 +1,0 @@
-object_tangible_deed_pet_deed_blistmok_deed = object_tangible_deed_pet_deed_shared_blistmok_deed:new {
-}
-ObjectTemplates:addTemplate(object_tangible_deed_pet_deed_blistmok_deed, "object/tangible/deed/pet_deed/blistmok_deed.iff")

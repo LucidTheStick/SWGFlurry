@@ -1,3 +1,0 @@
-object_tangible_deed_pet_deed_droideka_deed = object_tangible_deed_pet_deed_shared_droideka_deed:new {
-}
-ObjectTemplates:addTemplate(object_tangible_deed_pet_deed_droideka_deed, "object/tangible/deed/pet_deed/droideka_deed.iff")

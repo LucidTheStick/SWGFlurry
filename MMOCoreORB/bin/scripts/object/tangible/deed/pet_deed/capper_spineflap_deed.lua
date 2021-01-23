@@ -1,3 +1,0 @@
-object_tangible_deed_pet_deed_capper_spineflap_deed = object_tangible_deed_pet_deed_shared_capper_spineflap_deed:new {
-}
-ObjectTemplates:addTemplate(object_tangible_deed_pet_deed_capper_spineflap_deed, "object/tangible/deed/pet_deed/capper_spineflap_deed.iff")

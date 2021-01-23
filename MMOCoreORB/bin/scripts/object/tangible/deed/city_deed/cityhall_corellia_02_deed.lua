@@ -1,3 +1,0 @@
-object_tangible_deed_city_deed_cityhall_corellia_02_deed = object_tangible_deed_city_deed_shared_cityhall_corellia_02_deed:new {
-}
-ObjectTemplates:addTemplate(object_tangible_deed_city_deed_cityhall_corellia_02_deed, "object/tangible/deed/city_deed/cityhall_corellia_02_deed.iff")

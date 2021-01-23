@@ -1,3 +1,0 @@
-object_mobile_hologram_ithorian_female = object_mobile_hologram_shared_ithorian_female:new {
-}
-ObjectTemplates:addTemplate(object_mobile_hologram_ithorian_female, "object/mobile/hologram/ithorian_female.iff")

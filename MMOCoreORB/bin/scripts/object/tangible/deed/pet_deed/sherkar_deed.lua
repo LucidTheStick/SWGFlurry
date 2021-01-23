@@ -1,3 +1,0 @@
-object_tangible_deed_pet_deed_sherkar_deed = object_tangible_deed_pet_deed_shared_sherkar_deed:new {
-}
-ObjectTemplates:addTemplate(object_tangible_deed_pet_deed_sherkar_deed, "object/tangible/deed/pet_deed/sherkar_deed.iff")
